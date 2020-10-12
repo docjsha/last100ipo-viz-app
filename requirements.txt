@@ -1,5 +1,14 @@
+<<<<<<< HEAD
+streamlit==0.68
+pandas
+lxml
+html5lib
+bs4
+||||||| merged common ancestors
+=======
 streamlit
 pandas
 lxml
 html5lib
 bs4
+>>>>>>> 26f57f5bdf1fb3937f7cedcd5dc703d9c2a7f062
